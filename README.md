@@ -145,9 +145,6 @@ The system can:
 
 - MySQL
 
-## Database design
-![Database Design](HousePricePreeictionDiagram.jpg)
-
 ## 🏗️ System Architecture
 
 The project follows a Layered Architecture.
