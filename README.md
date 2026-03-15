@@ -145,7 +145,8 @@ The system can:
 
 - MySQL
 
-## Database designe
+## Database design
+![Database Design](HousePricePreeictionDiagram.jpg)
 
 ## 🏗️ System Architecture
 
